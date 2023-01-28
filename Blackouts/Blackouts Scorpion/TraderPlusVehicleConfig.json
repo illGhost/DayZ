@@ -1,0 +1,48 @@
+    {
+        "VehicleName": "vg7_scorpion",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer",
+            "vg7_scorpion_L_Door"
+        ]
+    },
+    {
+        "VehicleName": "vg7_scorpion_easyrider",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer",
+            "vg7_scorpion_L_Door"
+        ]
+    },
+    {
+        "VehicleName": "vg7_scorpion_scorcher",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer",
+            "vg7_scorpion_L_Door"
+        ]
+    }
