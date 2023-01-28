@@ -9,15 +9,15 @@
             "SpawnAttachments": [
                 "CarBattery",
                 "SparkPlug",
-        	    "HeadlightH7",
+        	"HeadlightH7",
                 "vg7_scorpion_radiator",
-        	    "vg7_scorpion_wheel_front",
-        	    "vg7_scorpion_wheel_front",
-        	    "vg7_scorpion_wheel_rear",
-        	    "vg7_scorpion_wheel_rear",
-        	    "vg7_scorpion_plate_blackouts",
-        	    "vg7_scorpion_windjammer",
-        	    "vg7_scorpion_L_Door"
+        	"vg7_scorpion_wheel_front",
+        	"vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_rear",
+        	"vg7_scorpion_wheel_rear",
+        	"vg7_scorpion_plate_blackouts",
+        	"vg7_scorpion_windjammer",
+        	"vg7_scorpion_L_Door"
             ],
             "Variants": [
                 "vg7_scorpion_easyrider",
@@ -35,15 +35,15 @@
             "SpawnAttachments": [
                 "CarBattery",
                 "SparkPlug",
-        	    "HeadlightH7",
+        	"HeadlightH7",
                 "vg7_scorpion_radiator",
-        	    "vg7_scorpion_wheel_front",
-        	    "vg7_scorpion_wheel_front",
-        	    "vg7_scorpion_wheel_rear",
-        	    "vg7_scorpion_wheel_rear",
-        	    "vg7_scorpion_plate_blackouts",
-        	    "vg7_scorpion_windjammer",
-        	    "vg7_scorpion_L_Door"
+        	"vg7_scorpion_wheel_front",
+        	"vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_rear",
+        	"vg7_scorpion_wheel_rear",
+        	"vg7_scorpion_plate_blackouts",
+        	"vg7_scorpion_windjammer",
+        	"vg7_scorpion_L_Door"
             ],
             "Variants": []
         },
@@ -58,15 +58,15 @@
             "SpawnAttachments": [
                 "CarBattery",
                 "SparkPlug",
-        	    "HeadlightH7",
+        	"HeadlightH7",
                 "vg7_scorpion_radiator",
-        	    "vg7_scorpion_wheel_front",
-        	    "vg7_scorpion_wheel_front",
-        	    "vg7_scorpion_wheel_rear",
-        	    "vg7_scorpion_wheel_rear",
-        	    "vg7_scorpion_plate_blackouts",
-        	    "vg7_scorpion_windjammer",
-        	    "vg7_scorpion_L_Door"
+        	"vg7_scorpion_wheel_front",
+        	"vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_rear",
+        	"vg7_scorpion_wheel_rear",
+        	"vg7_scorpion_plate_blackouts",
+        	"vg7_scorpion_windjammer",
+        	"vg7_scorpion_L_Door"
             ],
             "Variants": []
         }
