@@ -1,0 +1,76 @@
+DO NOT COPY THIS LINE //// Copy everything BELOW this and add it to your Trader file. Be careful and add it ONLY between the triple closing brackets \\\\ DO NOT COPY THIS LINE
+
+
+        
+        {
+            "ClassName": "vg7_scorpion",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent":  25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "SparkPlug",
+        	    "HeadlightH7",
+                "vg7_scorpion_radiator",
+        	    "vg7_scorpion_wheel_front",
+        	    "vg7_scorpion_wheel_front",
+        	    "vg7_scorpion_wheel_rear",
+        	    "vg7_scorpion_wheel_rear",
+        	    "vg7_scorpion_plate_blackouts",
+        	    "vg7_scorpion_windjammer",
+        	    "vg7_scorpion_L_Door"
+            ],
+            "Variants": [
+                "vg7_scorpion_easyrider",
+                "vg7_scorpion_scorcher"
+            ]
+        },
+        {
+            "ClassName": "vg7_scorpion_easyrider",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent":  25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "SparkPlug",
+        	    "HeadlightH7",
+                "vg7_scorpion_radiator",
+        	    "vg7_scorpion_wheel_front",
+        	    "vg7_scorpion_wheel_front",
+        	    "vg7_scorpion_wheel_rear",
+        	    "vg7_scorpion_wheel_rear",
+        	    "vg7_scorpion_plate_blackouts",
+        	    "vg7_scorpion_windjammer",
+        	    "vg7_scorpion_L_Door"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_scorcher",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent":  25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "CarBattery",
+                "SparkPlug",
+        	    "HeadlightH7",
+                "vg7_scorpion_radiator",
+        	    "vg7_scorpion_wheel_front",
+        	    "vg7_scorpion_wheel_front",
+        	    "vg7_scorpion_wheel_rear",
+        	    "vg7_scorpion_wheel_rear",
+        	    "vg7_scorpion_plate_blackouts",
+        	    "vg7_scorpion_windjammer",
+        	    "vg7_scorpion_L_Door"
+            ],
+            "Variants": []
+        }
