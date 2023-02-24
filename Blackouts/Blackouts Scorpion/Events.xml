@@ -1,4 +1,4 @@
-    <event name="vg7_scorpion">
+    <event name="Vehicle_vg7_scorpion">
         <nominal>10</nominal>
         <min>5</min>
         <max>15</max>
@@ -12,6 +12,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_easyrider"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_scorcher"/>
         </children>
