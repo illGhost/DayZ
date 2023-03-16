@@ -108,39 +108,3 @@
       <item name="vg7_scorpion_L_Door" chance="1.00" />
       </attachments>
     </type>
-    <type>
-      <type name="vg7_scorpion_windjammer">
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_radiator" chance="0.60" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="SparkPlug" chance="0.60" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="CarBattery" chance="0.60" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_wheel_front" chance="1.00" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_wheel_rear" chance="1.00" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_wheel_front" chance="1.00" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_wheel_rear" chance="1.00" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="HeadlightH7" chance="0.40" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="HeadlightH7" chance="0.40" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_drybag" chance="0.25" />
-      </attachments>
-      <attachments chance="1.00">
-      <item name="vg7_scorpion_L_Door" chance="1.00" />
-      </attachments>
-    </type>
