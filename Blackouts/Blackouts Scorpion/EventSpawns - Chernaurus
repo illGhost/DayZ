@@ -1,5 +1,5 @@
 <!-- Blackouts Scorpion -->
-	<event name="Vehicle_vg7_scorpion">
+    <event name="Vehicle_vg7_scorpion">
     
    	<!-- Vehicle spawns by RedCapt82 -->
 
@@ -35,4 +35,4 @@
       	<pos x="5825.385742"    z="2183.625977"    a="8.957602"    />
       	<pos x="1126.743408"    z="2418.937012"    a="5.603047"    />
       	<pos x="2690.511719"    z="5605.420898"    a="210.970032"  />
-   	</event>
+    </event>
