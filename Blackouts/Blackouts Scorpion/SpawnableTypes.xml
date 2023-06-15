@@ -4,140 +4,140 @@
       	<damage min="0.0" max="0.3" />
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_radiator" chance="0.60" />
+      		<item name="vg7_scorpion_radiator" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="SparkPlug" chance="0.60" />
+      		<item name="SparkPlug" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="CarBattery" chance="0.60" />
+      		<item name="CarBattery" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_front" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_front" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_rear" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_front" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_front" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_rear" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="HeadlightH7" chance="0.40" />
+      		<item name="HeadlightH7" chance="0.40" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="HeadlightH7" chance="0.40" />
+      		<item name="HeadlightH7" chance="0.40" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_drybag" chance="0.25" />
-      	</attachments>
+      		<item name="vg7_scorpion_drybag" chance="0.25" />
+      		</attachments>
       	<attachments chance="0.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_L_Door" chance="0.00" />
+      		<item name="vg7_scorpion_L_Door" chance="0.00" />
       	</attachments>
     </type>
     <type name="vg7_scorpion_easyrider">
       	<damage min="0.0" max="0.3" />
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_radiator" chance="0.60" />
+      		<item name="vg7_scorpion_radiator" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="SparkPlug" chance="0.60" />
+      		<item name="SparkPlug" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="CarBattery" chance="0.60" />
+      		<item name="CarBattery" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_front" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_front" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_rear" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_front" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_front" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_rear" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="HeadlightH7" chance="0.40" />
+      		<item name="HeadlightH7" chance="0.40" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="HeadlightH7" chance="0.40" />
+      		<item name="HeadlightH7" chance="0.40" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_drybag" chance="0.25" />
-      	</attachments>
+      		<item name="vg7_scorpion_drybag" chance="0.25" />
+      		</attachments>
       	<attachments chance="0.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_L_Door" chance="0.00" />
+      		<item name="vg7_scorpion_L_Door" chance="0.00" />
       	</attachments>
     </type>
     <type name="vg7_scorpion_scorcher">
-		<damage min="0.0" max="0.3" />
+	<damage min="0.0" max="0.3" />
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_radiator" chance="0.60" />
+      		<item name="vg7_scorpion_radiator" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="SparkPlug" chance="0.60" />
+      		<item name="SparkPlug" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="CarBattery" chance="0.60" />
+      		<item name="CarBattery" chance="0.60" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_front" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_front" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_rear" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_front" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_front" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+      		<item name="vg7_scorpion_wheel_rear" chance="1.00" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="HeadlightH7" chance="0.40" />
+      		<item name="HeadlightH7" chance="0.40" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="HeadlightH7" chance="0.40" />
+      		<item name="HeadlightH7" chance="0.40" />
       	</attachments>
       	<attachments chance="1.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_drybag" chance="0.25" />
-      	</attachments>
+      		<item name="vg7_scorpion_drybag" chance="0.25" />
+      		</attachments>
       	<attachments chance="0.00">
 		<damage min="0.0" max="0.3" />
-      	<item name="vg7_scorpion_L_Door" chance="0.00" />
+      		<item name="vg7_scorpion_L_Door" chance="0.00" />
       	</attachments>
     </type>
