@@ -45,4 +45,36 @@
             "vg7_scorpion_windjammer",
             "vg7_scorpion_L_Door"
         ]
+    },
+    {
+        "VehicleName": "vg7_scorpion_mermaid",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_mermaid",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer",
+            "vg7_scorpion_L_Door"
+        ]
+    },
+    {
+        "VehicleName": "vg7_scorpion_butterfly",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_butterfly",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer",
+            "vg7_scorpion_L_Door"
+        ]
     }
