@@ -69,9 +69,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-			"kraz_255B_doors_trunk_kung"
-			]
+            "Variants": []
         },
         {
             "ClassName": "vg7_scorpion_plate_skull",
