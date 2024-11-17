@@ -3,7 +3,9 @@
         "Products": [
             "vg7_scorpion,1,-1,1,280000,150000",
             "vg7_scorpion_easyrider,1,-1,1,280000,150000",
-            "vg7_scorpion_scorcher,1,-1,1,280000,150000"
+            "vg7_scorpion_scorcher,1,-1,1,280000,150000",
+            "vg7_scorpion_mermaid,1,-1,1,280000,150000",
+            "vg7_scorpion_butterfly,1,-1,1,280000,150000",
         ]
     },
     {
@@ -13,7 +15,6 @@
             "vg7_scorpion_windjammer,1,-1,1,500,250",
             "vg7_scorpion_wheel_front,1,-1,1,500,250",
             "vg7_scorpion_wheel_rear,1,-1,1,500,250",
-            "vg7_scorpion_drybag,1,-1,1,500,250",
             "vg7_scorpion_plate_czechoslovakia,1,-1,1,500,250",
             "vg7_scorpion_plate_skull,1,-1,1,500,250",
             "vg7_scorpion_plate_russia,1,-1,1,500,250",
@@ -23,7 +24,21 @@
             "vg7_scorpion_plate_usa,1,-1,1,500,250",
             "vg7_scorpion_plate_india,1,-1,1,500,250",
             "vg7_scorpion_plate_mexico,1,-1,1,500,250",
-            "vg7_scorpion_plate_blackouts,1,-1,1,500,250",
+            "vg7_scorpion_plate_blackouts,1,-1,1,500,250"
+        ]
+    },
+    {
+        "CategoryName": "Blackout's Accessories",
+        "Products": [
+            "vg7_scorpion_smg,1,-1,1,500,250",
+            "vg7_scorpion_magazine,1,-1,1,500,250",
+            "vg7_scorpion_suppressor,1,-1,1,500,250",
+            "vg7_scorpion_helmet,1,-1,1,500,250",
+            "vg7_scorpion_jacket,1,-1,1,500,250",
+            "vg7_scorpion_helmet_pink,1,-1,1,500,250",
+            "vg7_scorpion_jacket_pink,1,-1,1,500,250",
+            "vg7_scorpion_drybag,1,-1,1,500,250",
+            "vg7_scorpion_pink_drybag,1,-1,1,500,250",
             "vg7_scorpion_helmet,1,-1,1,500,250",
             "vg7_scorpion_jacket,1,-1,1,500,250"
         ]
