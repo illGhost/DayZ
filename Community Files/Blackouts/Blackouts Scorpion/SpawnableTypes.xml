@@ -132,76 +132,85 @@
 			<item name="vg7_scorpion_L_Door" chance="1.00" />
 		</attachments>
 	</type>
-
-	<type name="vg7_scorpion_radiator">
-		<damage min="0.0" max="0.3" />
+	<type name="vg7_scorpion_mermaid">
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_radiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_front" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_front" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_drybag" chance="1.00" />
+		</attachments>
+		<attachments chance="0.00">
+			<item name="vg7_scorpion_L_Door" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_windjammer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_saddlebag" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_saddlebag" chance="1.00" />
+		</attachments>
+		<attachments chance="0.00">
+			<item name="vg7_scorpion_L_Door" chance="1.00" />
+		</attachments>
 	</type>
-	<type name="vg7_scorpion_wheel_front">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_wheel_rear">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="CarRadiator">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="HeadlightH7">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_L_Door">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_windjammer">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_jacket">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_helmet">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_saddlebag">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_smg">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_magazine">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_suppressor">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_czechoslovakia">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_australia">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_skull">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_russia">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_china">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_british">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_canada">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_usa">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_india">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_mexico">
-		<damage min="0.0" max="0.3" />
-	</type>
-	<type name="vg7_scorpion_plate_blackouts">
-		<damage min="0.0" max="0.3" />
+	<type name="vg7_scorpion_butterfly">
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_radiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_front" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_front" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_wheel_rear" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_drybag" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_windjammer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="vg7_scorpion_saddlebag" chance="1.00" />
+		</attachments>
+		<attachments chance="0.00">
+			<item name="vg7_scorpion_L_Door" chance="1.00" />
+		</attachments>
 	</type>
