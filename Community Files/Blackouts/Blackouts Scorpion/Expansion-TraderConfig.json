@@ -1,81 +1,151 @@
+//--  Be sure to change the DisplayName to match your category settings
+
 {
-"m_Version": 12,
-"DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
-"Icon": "Deliver",
-"Color": "FBFCFEFF",
-"IsExchange": 0,
-"InitStockPercent": 75,
-"Items": [
-{
-    "ClassName": "vg7_scorpion",
-    "MaxPriceThreshold": 200000,
-    "MinPriceThreshold": 200000,
-    "SellPricePercent": 25,
-    "MaxStockThreshold": 1,
-    "MinStockThreshold": 1,
-    "QuantityPercent": -1,
-    "SpawnAttachments": [
-    "CarBattery",
-    "SparkPlug",
-    "HeadlightH7",
-    "vg7_scorpion_radiator",
-    "vg7_scorpion_wheel_front",
-    "vg7_scorpion_wheel_front",
-    "vg7_scorpion_wheel_rear",
-    "vg7_scorpion_wheel_rear",
-    "vg7_scorpion_plate_blackouts",
-    "vg7_scorpion_windjammer",
-    "vg7_scorpion_L_Door"
-    ],
-    "Variants": [
-    "vg7_scorpion_easyrider",
-    "vg7_scorpion_scorcher"]
-},
-{
-    "ClassName": "vg7_scorpion_easyrider",
-    "MaxPriceThreshold": 200000,
-    "MinPriceThreshold": 200000,
-    "SellPricePercent": 25,
-    "MaxStockThreshold": 1,
-    "MinStockThreshold": 1,
-    "QuantityPercent": -1,
-    "SpawnAttachments": [
-    "CarBattery",
-    "SparkPlug",
-    "HeadlightH7",
-    "vg7_scorpion_radiator",
-    "vg7_scorpion_wheel_front",
-    "vg7_scorpion_wheel_front",
-    "vg7_scorpion_wheel_rear",
-    "vg7_scorpion_wheel_rear",
-    "vg7_scorpion_plate_blackouts",
-    "vg7_scorpion_windjammer",
-    "vg7_scorpion_L_Door"
-    ],
-    "Variants": []
-},
-{
-    "ClassName": "vg7_scorpion_scorcher",
-    "MaxPriceThreshold": 200000,
-    "MinPriceThreshold": 200000,
-    "SellPricePercent": 25,
-    "MaxStockThreshold": 1,
-    "MinStockThreshold": 1,
-    "QuantityPercent": -1,
-    "SpawnAttachments": [
-    "CarBattery",
-    "SparkPlug",
-    "HeadlightH7",
-    "vg7_scorpion_radiator",
-    "vg7_scorpion_wheel_front",
-    "vg7_scorpion_wheel_front",
-    "vg7_scorpion_wheel_rear",
-    "vg7_scorpion_wheel_rear",
-    "vg7_scorpion_plate_blackouts",
-    "vg7_scorpion_windjammer",
-    "vg7_scorpion_L_Door"
-    ],
-    "Variants": []
-}
-]
-}
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+    {
+        "ClassName": "vg7_scorpion",
+        "MaxPriceThreshold": 200000,
+        "MinPriceThreshold": 200000,
+        "SellPricePercent": 25,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_windjammer",
+            "vg7_scorpion_L_Door"
+        ],
+        "Variants": [
+            "vg7_scorpion_easyrider",
+            "vg7_scorpion_scorcher",
+            "vg7_scorpion_ace",
+            "vg7_scorpion_ace_rust",
+            "vg7_scorpion_butterfly",
+            "vg7_scorpion_mermaid"
+        ]
+    },
+    {
+        "ClassName": "vg7_scorpion_smg",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [
+            "vg7_scorpion_magazine",
+            "vg7_scorpion_suppressor"
+        ],
+        "Variants": []
+    },
+    {
+        "ClassName": "vg7_scorpion_handguard_left",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "vg7_scorpion_handguard_rust_left",
+            "vg7_scorpion_handguard_mesh_left",
+            "vg7_scorpion_handguard_metal_left"
+        ]
+    },
+    {
+        "ClassName": "vg7_scorpion_handguard_right",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "vg7_scorpion_handguard_rust_right",
+            "vg7_scorpion_handguard_mesh_right",
+            "vg7_scorpion_handguard_metal_right"
+        ]
+    },
+    {
+        "ClassName": "vg7_scorpion_plate_blackouts",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "vg7_scorpion_plate_mermaid",
+            "vg7_scorpion_plate_butterfly",
+            "vg7_scorpion_plate_skull",
+            "vg7_scorpion_plate_czechoslovakia",
+            "vg7_scorpion_plate_australia",
+            "vg7_scorpion_plate_russia",
+            "vg7_scorpion_plate_china",
+            "vg7_scorpion_plate_british",
+            "vg7_scorpion_plate_canada",
+            "vg7_scorpion_plate_usa",
+            "vg7_scorpion_plate_india",
+            "vg7_scorpion_plate_mexico"
+        ]
+    },
+    {
+        "ClassName": "vg7_scorpion_drybag",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "vg7_scorpion_pink_drybag"
+        ]
+    },
+    {
+        "ClassName": "vg7_scorpion_helmet",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "vg7_scorpion_helmet_pink",
+            "vg7_scorpion_helmet_ace"
+        ]
+    },
+    {
+        "ClassName": "vg7_scorpion_jacket",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "vg7_scorpion_jacket_pink"
+        ]
+    }
+]}
