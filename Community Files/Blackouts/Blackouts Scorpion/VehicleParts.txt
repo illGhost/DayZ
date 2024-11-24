@@ -1,54 +1,76 @@
-<VehicleParts> vg7_scorpion	
-	vg7_scorpion_radiator
+<VehicleParts> vg7_scorpion
 	CarBattery
+	SparkPlug
+	HeadlightH7
+	vg7_scorpion_radiator
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_plate_blackouts
+
+<VehicleParts> vg7_scorpion_easyrider
+	CarBattery
 	SparkPlug
 	HeadlightH7
-
-<VehicleParts> vg7_scorpion_easyrider	
 	vg7_scorpion_radiator
-	CarBattery
-	vg7_scorpion_wheel_front
-	vg7_scorpion_wheel_front
-	vg7_scorpion_wheel_rear
-	vg7_scorpion_wheel_rear
-	vg7_scorpion_plate_usa
-	SparkPlug
-	HeadlightH7
-
-<VehicleParts> vg7_scorpion_scorcher	
-	vg7_scorpion_radiator
-	CarBattery
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_plate_blackouts
+
+<VehicleParts> vg7_scorpion_scorcher
+	CarBattery
 	SparkPlug
 	HeadlightH7
-
-<VehicleParts> vg7_scorpion_mermaid	
 	vg7_scorpion_radiator
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_plate_blackouts
+
+<VehicleParts> vg7_scorpion_mermaid
 	CarBattery
+	SparkPlug
+	HeadlightH7
+	vg7_scorpion_radiator
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_plate_mermaid
+
+<VehicleParts> vg7_scorpion_butterfly
+	CarBattery
 	SparkPlug
 	HeadlightH7
-
-<VehicleParts> vg7_scorpion_butterfly	
 	vg7_scorpion_radiator
-	CarBattery
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_front
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_wheel_rear
 	vg7_scorpion_plate_butterfly
+
+<VehicleParts> vg7_scorpion_ace
+	CarBattery
 	SparkPlug
 	HeadlightH7
+	vg7_scorpion_radiator
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_plate_blackouts
+
+<VehicleParts> vg7_scorpion_ace_rust
+	CarBattery
+	SparkPlug
+	HeadlightH7
+	vg7_scorpion_radiator
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_plate_blackouts
