@@ -7,11 +7,15 @@
             "HeadlightH7",
             "vg7_scorpion_radiator",
             "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
             "vg7_scorpion_wheel_rear",
             "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
             "vg7_scorpion_drybag",
-            "vg7_scorpion_windjammer",
-            "vg7_scorpion_L_Door"
+            "vg7_scorpion_windjammer"
         ]
     },
     {
@@ -23,11 +27,15 @@
             "HeadlightH7",
             "vg7_scorpion_radiator",
             "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
             "vg7_scorpion_wheel_rear",
             "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
             "vg7_scorpion_drybag",
-            "vg7_scorpion_windjammer",
-            "vg7_scorpion_L_Door"
+            "vg7_scorpion_windjammer"
         ]
     },
     {
@@ -39,11 +47,15 @@
             "HeadlightH7",
             "vg7_scorpion_radiator",
             "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
             "vg7_scorpion_wheel_rear",
             "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
             "vg7_scorpion_drybag",
-            "vg7_scorpion_windjammer",
-            "vg7_scorpion_L_Door"
+            "vg7_scorpion_windjammer"
         ]
     },
     {
@@ -55,11 +67,15 @@
             "HeadlightH7",
             "vg7_scorpion_radiator",
             "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
             "vg7_scorpion_wheel_rear",
-            "vg7_scorpion_plate_mermaid",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
             "vg7_scorpion_drybag",
-            "vg7_scorpion_windjammer",
-            "vg7_scorpion_L_Door"
+            "vg7_scorpion_windjammer"
         ]
     },
     {
@@ -71,10 +87,54 @@
             "HeadlightH7",
             "vg7_scorpion_radiator",
             "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
             "vg7_scorpion_wheel_rear",
-            "vg7_scorpion_plate_butterfly",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
             "vg7_scorpion_drybag",
-            "vg7_scorpion_windjammer",
-            "vg7_scorpion_L_Door"
+            "vg7_scorpion_windjammer"
+        ]
+    },
+    {
+        "VehicleName": "vg7_scorpion_ace",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer"
+        ]
+    },
+    {
+        "VehicleName": "vg7_scorpion_ace_rust",
+        "Height": 3,
+        "VehicleParts": [
+            "CarBattery",
+            "SparkPlug",
+            "HeadlightH7",
+            "vg7_scorpion_radiator",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_front",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_wheel_rear",
+            "vg7_scorpion_plate_blackouts",
+            "vg7_scorpion_handguard_left",
+            "vg7_scorpion_handguard_right",
+            "vg7_scorpion_sissybar",
+            "vg7_scorpion_drybag",
+            "vg7_scorpion_windjammer"
         ]
     }
