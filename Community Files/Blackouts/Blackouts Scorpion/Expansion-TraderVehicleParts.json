@@ -3,8 +3,30 @@
     "DisplayName": "Blackout's Scorpion Parts",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 100,
+    "InitStockPercent": 75,
     "Items": [
+        {
+            "ClassName": "vg7_scorpion_sissybar",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_saddlebag",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "vg7_scorpion_windjammer",
             "MaxPriceThreshold": 1000,
@@ -17,7 +39,7 @@
             "Variants": []
         },
         {
-            "ClassName": "vg7_scorpion_radiator",
+            "ClassName": "vg7_scorpion_L_Door",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
@@ -28,7 +50,7 @@
             "Variants": []
         },
         {
-            "ClassName": "vg7_scorpion_drybag",
+            "ClassName": "vg7_scorpion_radiator",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
@@ -61,6 +83,116 @@
             "Variants": []
         },
         {
+            "ClassName": "vg7_scorpion_handguard_left",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_right",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_rust_left",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_rust_right",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_mesh_left",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_mesh_right",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_metal_left",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_handguard_metal_right",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_plate_mermaid",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vg7_scorpion_plate_butterfly",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "vg7_scorpion_plate_czechoslovakia",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
@@ -72,7 +204,7 @@
             "Variants": []
         },
         {
-            "ClassName": "vg7_scorpion_plate_skull",
+            "ClassName": "vg7_scorpion_plate_australia",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
@@ -84,6 +216,17 @@
         },
         {
  
+            "ClassName": "vg7_scorpion_plate_skull",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "vg7_scorpion_plate_russia",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
@@ -170,26 +313,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "vg7_scorpion_helmet",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "vg7_scorpion_jacket",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
+    ]
+}
