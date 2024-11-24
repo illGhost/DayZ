@@ -1,11 +1,9 @@
 -- Made by Jazs --
 
-
 {
     "VehicleName": "vg7_scorpion",
     "DisplayName": "Scorpion",
     "Parts": [
-        "Jeep_Willis_Windshield",
         "vg7_scorpion_wheel_front",
         "vg7_scorpion_wheel_front",
         "vg7_scorpion_wheel_rear",
@@ -16,7 +14,6 @@
         "vg7_scorpion_plate_blackouts",
         "vg7_scorpion_drybag",
         "vg7_scorpion_windjammer",
-        "vg7_scorpion_L_Door",
         "carBattery"
     ]
 },
@@ -24,7 +21,6 @@
     "VehicleName": "vg7_scorpion_easyrider",
     "DisplayName": "Scorpion Easyrider",
     "Parts": [
-        "Jeep_Willis_Windshield",
         "vg7_scorpion_wheel_front",
         "vg7_scorpion_wheel_front",
         "vg7_scorpion_wheel_rear",
@@ -35,7 +31,6 @@
         "vg7_scorpion_plate_blackouts",
         "vg7_scorpion_drybag",
         "vg7_scorpion_windjammer",
-        "vg7_scorpion_L_Door",
         "carBattery"
     ]
 },
@@ -43,7 +38,6 @@
     "VehicleName": "vg7_scorpion_scorcher",
     "DisplayName": "Scorpion Scorcher",
     "Parts": [
-        "Jeep_Willis_Windshield",
         "vg7_scorpion_wheel_front",
         "vg7_scorpion_wheel_front",
         "vg7_scorpion_wheel_rear",
@@ -54,7 +48,74 @@
         "vg7_scorpion_plate_blackouts",
         "vg7_scorpion_drybag",
         "vg7_scorpion_windjammer",
-        "vg7_scorpion_L_Door",
+        "carBattery"
+    ]
+},
+{
+    "VehicleName": "vg7_scorpion_ace",
+    "DisplayName": "Scorpion Ace",
+    "Parts": [
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_radiator",
+        "sparkPlug",
+        "HeadlightH7",
+        "vg7_scorpion_plate_blackouts",
+        "vg7_scorpion_drybag",
+        "vg7_scorpion_windjammer",
+        "carBattery"
+    ]
+},
+{
+    "VehicleName": "vg7_scorpion_ace_rust",
+    "DisplayName": "Scorpion Ace Rust",
+    "Parts": [
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_radiator",
+        "sparkPlug",
+        "HeadlightH7",
+        "vg7_scorpion_plate_blackouts",
+        "vg7_scorpion_drybag",
+        "vg7_scorpion_windjammer",
+        "carBattery"
+    ]
+},
+{
+    "VehicleName": "vg7_scorpion_butterfly",
+    "DisplayName": "Scorpion Butterfly",
+    "Parts": [
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_radiator",
+        "sparkPlug",
+        "HeadlightH7",
+        "vg7_scorpion_plate_butterfly",
+        "vg7_scorpion_drybag",
+        "vg7_scorpion_windjammer",
+        "carBattery"
+    ]
+},
+{
+    "VehicleName": "vg7_scorpion_mermaid",
+    "DisplayName": "Scorpion Mermaid",
+    "Parts": [
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_front",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_wheel_rear",
+        "vg7_scorpion_radiator",
+        "sparkPlug",
+        "HeadlightH7",
+        "vg7_scorpion_plate_mermaid",
+        "vg7_scorpion_drybag",
+        "vg7_scorpion_windjammer",
         "carBattery"
     ]
 }
