@@ -3,7 +3,6 @@
 <types>
 -->
 
-
 	<type name="vg7_scorpion_smg">
 		<attachments chance="1.00">
 			<item name="vg7_scorpion_magazine" chance="0.50" />
