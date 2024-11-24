@@ -1,14 +1,28 @@
 <Category> Blackouts Scorpion
-    vg7_scorpion,                          VNK,        280000,     140000
-    vg7_scorpion_easyrider,                VNK,        300000,     150000
-    vg7_scorpion_scorcher,                 VNK,        300000,     150000
-    vg7_scorpion_mermaid,                  VNK,	       300000, 	   150000
-    vg7_scorpion_butterfly,                VNK,	       300000, 	   150000
+    vg7_scorpion,           			   VNK,  	   280000,     140000
+	vg7_scorpion_easyrider,           	   VNK,  	   300000,     150000
+	vg7_scorpion_scorcher,           	   VNK,  	   300000,     150000
+	vg7_scorpion_ace,           		   VNK,  	   300000,     150000
+	vg7_scorpion_ace_rust,           	   VNK,  	   300000,     150000
+	vg7_scorpion_mermaid,           	   VNK,  	   300000,     150000
+	vg7_scorpion_butterfly,           	   VNK,  	   300000,     150000
+	vg7_scorpion_sissybar,				   *,		   8000,	   3500
+	vg7_scorpion_saddlebag,				   *,		   6000,	   5500
     vg7_scorpion_windjammer,               *,          5000,       2500
     vg7_scorpion_L_Door,                   *,          5000, 	   2500
     vg7_scorpion_radiator,                 *,          5000,       2500
     vg7_scorpion_wheel_front,              *,          5000,       2500
     vg7_scorpion_wheel_rear,               *,          5000,       2500
+	vg7_scorpion_handguard_left,		   *,		   3000,	   1500
+	vg7_scorpion_handguard_right,		   *,		   3000,	   1500
+	vg7_scorpion_handguard_rust_left,	   *,		   3000,	   1500
+	vg7_scorpion_handguard_mesh_left,	   *,		   5000,	   2500
+	vg7_scorpion_handguard_mesh_right,	   *,		   5000,	   2500
+	vg7_scorpion_handguard_metal_left,	   *,		   3000,	   1500
+	vg7_scorpion_handguard_metal_right,	   *,		   3000,	   1500
+	vg7_scorpion_handguard_metal_right,	   *,		   3000,	   1500
+
+<Category> Blackouts License Plates
     vg7_scorpion_plate_mermaid,            *,          5000,       2500
     vg7_scorpion_plate_butterfly,          *,          5000,       2500
     vg7_scorpion_plate_czechoslovakia,     *,          5000,       2500
@@ -31,5 +45,6 @@
     vg7_scorpion_jacket,                   *,          5000,       2500
     vg7_scorpion_helmet_pink,              *,          5000,       2500
     vg7_scorpion_jacket_pink,              *,          5000,       2500
+	vg7_scorpion_helmet_ace,			   *,		   3000,	   1500
     vg7_scorpion_drybag,                   *,          3000,       1500
     vg7_scorpion_pink_drybag,              *,          3000,       1500
