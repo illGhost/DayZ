@@ -1,5 +1,10 @@
-<!-- Blackout's Scorpion START -->
-<!-- Code submitted by RedCapt82 -->
+<!--
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+-->
+
+    <!-- Blackout's Scorpion -->
+    <!-- Made by RedCapt82 -->
     
     <event name="Vehicle_vg7_scorpion">
         <nominal>7</nominal>
@@ -18,5 +23,13 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_easyrider"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_scorcher"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_ace"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_ace_rust"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_butterfly"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_mermaid"/>
         </children>
     </event>
+
+<!--
+</events>
+-->
