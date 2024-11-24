@@ -1,8 +1,12 @@
-<!-- Blackouts Scorpion -->
-    <event name="Vehicle_vg7_scorpion">
+<!--
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventposdef>
+-->
     
-   	<!-- Vehicle spawns by RedCapt82 -->
-
+    <!-- Blackouts Scorpion -->
+    <event name="VehicleBlackoutsScorpion">
+    
+   	    <!-- Vehicle spawns by RedCapt82 -->
     	<pos x="4338.91211"    z="13080.067383"   a="87.996704" />
       	<pos x="2840.061523"   z="5291.243164"    a="195.853622" />
       	<pos x="6497.130371"   z="3666.682617"    a="169.557327" />
@@ -17,8 +21,7 @@
       	<pos x="173.83841"     z="10408.898436"   a="116.552834" />
       	<pos x="2616.408202"   z="15173.467773"   a="181.678299" />
 
-   	<!-- Fuel Station Spawns set up by Krak3n -->
-    
+   	    <!-- Fuel Station Spawns set up by Krak3n -->
       	<pos x="13565.571289"   z="13301.781250"   a="34.239754"   />
       	<pos x="12980.439453"   z="10087.556641"   a="5.995999"    />
       	<pos x="7476.309570"    z="12664.169922"   a="121.017944"  />
@@ -36,3 +39,7 @@
       	<pos x="1126.743408"    z="2418.937012"    a="5.603047"    />
       	<pos x="2690.511719"    z="5605.420898"    a="210.970032"  />
     </event>
+
+<--
+</eventposdef>
+-->
