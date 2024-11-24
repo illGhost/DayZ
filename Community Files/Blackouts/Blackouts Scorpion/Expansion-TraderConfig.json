@@ -1,4 +1,4 @@
-//--  Be sure to change the DisplayName to match your category settings
+//-- If you want to spawn the bikes with the Scorpion Drybag, you need to add the Sissybar BEFORE the Drybag in the attachment list. The Sissybar is required when adding the Drybag.
 
 {
     "m_Version": 12,
