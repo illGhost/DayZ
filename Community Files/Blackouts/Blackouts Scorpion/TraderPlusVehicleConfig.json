@@ -1,3 +1,5 @@
+//-- If you want to spawn the bikes with the Scorpion Drybag, you need to add the Sissybar BEFORE the Drybag in the attachment list. The Sissybar is required when adding the Drybag.
+
     {
         "VehicleName": "vg7_scorpion",
         "Height": 3,
